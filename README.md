@@ -2,7 +2,7 @@
 
 ## Overview
 
-This method provides a way to play latest Dead By Daylight version with **mods**.
+This method provides a way to play latest Dead By Daylight version with **mods** (only in tutorial and offline bot matches!).
 
 
 ## Installation
